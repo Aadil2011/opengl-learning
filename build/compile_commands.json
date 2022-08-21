@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/aadilsingal/Documents/GitHub/opengl-learning/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin21-g++-11  -I/Users/aadilsingal/vcpkg/installed/arm64-osx/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/opengl-stuff.dir/src/main.cpp.o -c /Users/aadilsingal/Documents/GitHub/opengl-learning/src/main.cpp",
+  "file": "/Users/aadilsingal/Documents/GitHub/opengl-learning/src/main.cpp"
+}
+]
