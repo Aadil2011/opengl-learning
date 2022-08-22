@@ -1,5 +1,0 @@
-/Users/aadilsingal/Documents/GitHub/opengl-learning/build/CMakeFiles/opengl-stuff.dir
-/Users/aadilsingal/Documents/GitHub/opengl-learning/build/CMakeFiles/package.dir
-/Users/aadilsingal/Documents/GitHub/opengl-learning/build/CMakeFiles/package_source.dir
-/Users/aadilsingal/Documents/GitHub/opengl-learning/build/CMakeFiles/edit_cache.dir
-/Users/aadilsingal/Documents/GitHub/opengl-learning/build/CMakeFiles/rebuild_cache.dir

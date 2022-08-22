@@ -1,0 +1,2 @@
+all:
+	gcc -Wall -g -I/Users/aadilsingal/vcpkg/installed/arm64-osx/include -L/Users/aadilsingal/vcpkg/installed/arm64-osx/lib -lglfw3 -lglad src/*.cpp /Users/aadilsingal/vcpkg/installed/arm64-osx/include/glad/glad.c -o a -framework OpenGL -framework Cocoa -framework IOKit -framework CoreVideo -framework CoreFoundation -Wno-deprecated

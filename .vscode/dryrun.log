@@ -1,5 +1,5 @@
+make --dry-run --keep-going --print-directory
 make: Entering directory `/Users/aadilsingal/Documents/GitHub/opengl-learning'
+gcc -Wall -g -I/Users/aadilsingal/vcpkg/installed/arm64-osx/include -L/Users/aadilsingal/vcpkg/installed/arm64-osx/lib -l/Users/aadilsingal/vcpkg/installed/arm64-osx/lib/libglfw3.a -l/Users/aadilsingal/vcpkg/installed/arm64-osx/lib/libglad.a src/*.cpp /Users/aadilsingal/vcpkg/installed/arm64-osx/include/glad/glad.c -o a -framework OpenGL -framework Cocoa -framework IOKit -framework CoreVideo -framework CoreFoundation -Wno-depracted
 make: Leaving directory `/Users/aadilsingal/Documents/GitHub/opengl-learning'
  
-make: *** No targets specified and no makefile found.  Stop.
-
